@@ -34,7 +34,7 @@ Requisitos:
 👉🏻 [NES.css](https://nostalgic-css.github.io/NES.css/)
 
 ### 🌐 Hospedagem
-👉🏻 []()
+👉🏻 [https://matheusrmatiaspos.github.io/D1DFE-A8-EA6-e-FeatchAPI/](https://matheusrmatiaspos.github.io/D1DFE-A8-EA6-e-FeatchAPI/)
 
 ## 📒 Disciplina
 D1DFE - Desenvolvimento Front-End
