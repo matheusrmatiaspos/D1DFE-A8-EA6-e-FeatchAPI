@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#character-img img{
+    max-width: 100%;
+}
